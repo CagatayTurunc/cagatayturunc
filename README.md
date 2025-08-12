@@ -23,7 +23,7 @@ Mimari: BloC
 
 Veritabanı & Backend: Firebase, PostgreSQL, MSSQL
 
-📫 Bana Ulaşın:
+📫 Bana Ulaşın:                                                              
 • www.linkedin.com/in/cagatayturunc                                                              
 • cagatayturunc@gmail.com
 
