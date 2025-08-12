@@ -24,7 +24,7 @@ Mimari: BloC
 Veritabanı & Backend: Firebase, PostgreSQL, MSSQL
 
 📫 Bana Ulaşın:
-• www.linkedin.com/in/cagatayturunc
+• www.linkedin.com/in/cagatayturunc                                                              
 • cagatayturunc@gmail.com
 
 ⭐ GitHub profilimi ziyaret ettiğiniz için teşekkürler!
