@@ -54,8 +54,8 @@ Architecture: BloC
 
 Database & Backend: Firebase, PostgreSQL, MSSQL
 
-📫 Get in Touch:
-• www.linkedin.com/in/cagatayturunc
+📫 Get in Touch:                                                             
+• www.linkedin.com/in/cagatayturunc                                                              
 • cagatayturunc@gmail.com
 
 ⭐ Thank you for visiting my GitHub profile! ⭐
